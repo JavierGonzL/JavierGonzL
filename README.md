@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/JavierGonzL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JavierGonzL" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/javier-eduardo-gonzález-luna-127946313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Javier Eduardo González Luna" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javier-eduardo-gonz%C3%A1lez-luna-127946313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Javier Eduardo González Luna" height="30" width="40" /></a>
 <a href="https://instagram.com/javis_gl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javis_gl" height="30" width="40" /></a>
 </p>
 

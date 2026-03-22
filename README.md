@@ -4,9 +4,9 @@
 
 - 🔭 I'm currently working on **Quarksoft**
 
-- 🌱 I'm currently learning **Angular, Typescript, Springboot and Oracle**
+- 🌱 I'm currently learning **n8n and Google Cloud**
 
-- 💬 Ask me about **html, java, typescript, data migration and angular**
+- 💬 Ask me about **html, java, typescript, data migration, oracle, laravel and angular**
 
 - 📫 How to reach me **javiergol2002@gmail.com**
 

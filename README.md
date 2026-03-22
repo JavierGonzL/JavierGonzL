@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **javiergol2002@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1JqCWrNLAS8uKFEA6dERY-5--NuLx8PAt/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/13BJ6Zpde-Cy7n4WE3MHvH49Ed31AxvYy/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
